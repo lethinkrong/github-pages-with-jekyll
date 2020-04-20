@@ -1,9 +1,3 @@
-# 我与自己
+# Welcome to my blog
 
-看吸血鬼日记的时候，哥哥有一个情绪开关。
-两年前写小传，发现自己也有压抑着的情感。
-舞舞舞，写写写
-这是自留地，只求对每个当下的自己诚实
-快写慢改
-company
-流动的
+I'm glad you are here. I plan to talk about ...
